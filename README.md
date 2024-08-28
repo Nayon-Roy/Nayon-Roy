@@ -59,5 +59,5 @@
 
 <div align="left">
   <h2>🧑‍💻 My Contributions 🧑‍💻</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </div>
