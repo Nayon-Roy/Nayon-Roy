@@ -5,7 +5,7 @@
 </h1>
 
 
-<img src="https://github.com/Nayon-Roy/banner/blob/main/image_processing20200817-23105-6luolg.gif?raw=true"/>
+<img width="100%" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif"/>
 
 <hr>
 
